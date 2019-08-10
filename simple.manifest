@@ -1,0 +1,8 @@
+{ "main" : "main.bc"
+, "binary"  : "main"
+, "modules"    : []
+, "native_libs" : []
+, "ldflags" : []
+, "args"    : ["Aatira","Anum"]
+, "name"    : "main"
+}
